@@ -1,0 +1,15 @@
+
+body {background-color:#F7CAC9}
+h1 {color:#91A8D0}
+body {color:white;}
+p {
+  border-style: solid;
+  border-top-width: 10px
+}
+ul {
+  background-color: #F7CAC9;
+  width: 50px;
+  border: 5px solid #91A8D0;
+  padding: 25px;
+  margin: 10px;
+}
