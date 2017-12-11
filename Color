@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="Style.css">
+  </head>
+  <body>
+    <h1> <strong> My Favorite Colors </strong> </h1>
+    <p> *These colors are named by <a href="https://www.pantone.com"> Pantone </a>* </p>
+    <ol type="1">
+      <strong>
+        <li> Rose Quartz </li>
+        <br>
+        <canvas id="myCanvas" width="190" height="190" style="border:5px solid #FFFFFF;">
+        </canvas>
+        <br><br>
+
+        <li>Serenity</li>
+        <br>
+        <canvas id="myCanvas" width="0.05" height="0.05" style="border:100px solid #91A8D0;">
+        </canvas>
+        <br><br>
+
+        <li>Ultra Violet</li>
+        <br>
+        <canvas id="myCanvas" width="0.05" height="0.05" style="border:100px solid #5F4B8B;">
+        </canvas>
+        <br><br>
+        
+        <li>Turquoise</li>
+        <br>
+        <canvas id="myCanvas" width="0.05" height="0.05" style="border:100px solid #45B8AC;">
+        </canvas>
+        <br><br>
+      </strong>  
+    </ol>
+    <h4><ul>
+      <li type="circle">										
+        <a href="1.%20Music%20Page.html">
+          Music
+        </a></li>
+
+      <li type="circle">										
+        <a href="2.%20Movie%20Page.html">
+          Movie
+        </a></li>
+
+      <li type="circle">										
+        <a href="3.%20Color%20Page.html">
+          Color
+        </a></li>
+
+      <li type="circle"> 
+        <a href="4.%20Pets%20Page.html">
+          Pets
+        </a></li>
+      
+      <li type="circle"> 
+        <a href="https://myjournalforintrocs.blogspot.com/">
+          Journal
+        </a></li>
+      </ul> </h4>
+    
+    <h5> <ul>
+      <li type="square">
+        <a href="index.html">
+          HOME 
+        </a></li>
+      </ul></h5>
+  </body>
+</html>
