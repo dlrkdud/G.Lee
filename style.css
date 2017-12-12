@@ -19,3 +19,6 @@ h4 {
   border: 3px double;
   border-color: white;
 }
+p.X {
+  width:20em;
+  white-space: pre-line}
